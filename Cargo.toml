@@ -4,6 +4,7 @@ description = "A simple wrapper around the OpenTriviaQA database"
 version = "1.0.0"
 edition = "2021"
 repository = "https://github.com/Siliwolf/otqa"
+license = "MIT"
 license-file = "LICENSE.txt"
 readme = "README.md"
 

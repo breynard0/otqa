@@ -1,7 +1,11 @@
 [package]
 name = "otqa"
-version = "0.1.0"
+description = "A simple wrapper around the OpenTriviaQA database"
+version = "1.0.0"
 edition = "2021"
+repository = "https://github.com/Siliwolf/otqa"
+license-file = "LICENSE.txt"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

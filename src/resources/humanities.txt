@@ -1,0 +1,1432 @@
+
+#Q Which vegetables are considered taboo food in Buddhist tradition?
+^ Garlic and onion
+A All legumes
+B Garlic and onion
+C Eggplants and tomatoes
+D Cabbage and lettuce
+
+#Q Is this the correct usage of the word inferring? 
+By saying that I look good today, are you inferring that I did not look good yesterday?
+^ No
+A No
+B Yes
+
+#Q Is this the correct usage of the word continually? 
+Professor Smith gave a speech yesterday. He spoke continually for 3 hours.
+^ No
+A No
+B Yes
+
+#Q Which of these sentences is correct?
+^ Whence did he come?
+A From hence to eternity, I will search.
+B Whence did he come?
+C From whence did he come?
+D If you build it, thence he will come.
+
+#Q Which of these is correct?
+^ The capitol building is located in the capital.
+A The capitol building is located in the capitol.
+B The capital building is located in the capital.
+C The capitol building is located in the capital.
+D The capital building is located in the capitol.
+
+#Q In the following sentence, which word is incorrect?  
+The schools unprincipled principal understands the principle of the argument.
+^ None of the words is incorrect; the sentence is correct as is.
+A principal
+B unprincipled
+C principle
+D None of the words is incorrect; the sentence is correct as is.
+
+#Q Which of the following is NOT a synonym of the word reticent?
+^ These are all synonyms of the word reticent.
+A These are all synonyms of the word reticent.
+B Restrained
+C Silent
+D Reluctant
+
+#Q Which of the following is incorrect?
+^ These are all correct usages of the word comprised.
+A The class comprised 30 people.
+B Thirty people comprised the class.
+C These are all correct usages of the word comprised.
+D The class was comprised of 30 people.
+
+#Q Which of these is incorrect?
+^ All of these sentences are correct.
+A He woke up at six.
+B All of these sentences are correct.
+C He awoke at six.
+D He awakened at six.
+
+#Q Which of these sentences means I love you in Spanish?
+^ Te amo.
+A Te amo.
+B Kocham cie.
+C Mi amas vin.
+D Ti amo.
+
+#Q Rakastan sinua is one of the ways to say I love you in which European language?
+^ Finnish
+A Bulgarian
+B French
+C Finnish
+D German
+
+#Q Which expression would you use to say I love you in Danish?
+^ Jeg elsker dig.
+A Jeg elsker dig.
+B Volim te.
+C I love thee.
+D Je taime.
+
+#Q In what European language does Je taime mean I love you?
+^ French
+A Swedish
+B Italian
+C German
+D French
+
+#Q Which of the following sentences means I love you in German?
+^ Ich liebe Dich.
+A Ich liebe Dich.
+B Te amo.
+C Volim te.
+D Je taime.
+
+#Q Volim te means I love you in three of these European languages. Which is the odd one?
+^ Italian
+A Croatian
+B Bosnian
+C Italian
+D Serbian
+
+#Q What is the Swahili expression for I love you?
+^ Nakupenda
+A Te quiero
+B Nakupenda
+C Ti amo
+D Je taime
+
+#Q In which Turkic language does Seni seviyorum mean I love you?
+^ Turkish
+A Navajo
+B Hebrew
+C Icelandic
+D Turkish
+
+#Q Name this artificially-constructed international language, in which Mi amas vin means I love you.
+^ Esperanto
+A Thai
+B Navajo
+C Spanish
+D Esperanto
+
+#Q Which of these sentences means I love you in Dutch?
+^ Ik hou van jou.
+A Ti amo.
+B Ik hou van jou.
+C Ne mohotatse.
+D Ich liebe Dich.
+
+#Q The implement, used to extinguish the flame of a candle, is called this.
+^ Candlesnuffer
+A Candleberry
+B Candleholder
+C Candlestick
+D Candlesnuffer
+
+#Q When something contains or yields an acid, it is this.
+^ Acidiferous
+A Acidiferous
+B Acidophilous
+C Acidimetric
+D Acidifiable
+
+#Q The monitoring, recording, and measuring of a living organisms basic physiological functions is known as this.
+^ Biotelemetry
+A Biomedicine
+B Bipartisanism
+C Biosystematy
+D Biotelemetry
+
+#Q Enterokinase is this.
+^ Enzyme
+A Disease
+B Medical condition
+C Enzyme
+D Hormone
+
+#Q Copious perspiration is known as this.
+^ Diaphoresis
+A Diaphoresis
+B Deuterogamy
+C Detumescence
+D Diabolisation
+
+#Q Gerontology is the branch of medical science that deals with diseases and problems specific to these people.
+^ Elderly
+A Adults
+B Elderly
+C Blind people
+D Children
+
+#Q One of these terms means preserving the mutual relations of parts, especially as to size and form; maintaining relative proportion.
+^ Homolographic
+A Homologisation
+B Homomorphic
+C Homomorphism
+D Homolographic
+
+#Q Hyperplasia is the abnormal increase in the number of these.
+^ Cells
+A Species
+B Habitat
+C Teeth
+D Cells
+
+#Q The authority to teach religious doctrine is referred to as this.
+^ Magisterium
+A Mastigophoran
+B Magistrature
+C Magistrateship
+D Magisterium
+
+#Q The word vampire is a very controversial one, when it comes to its etymology. There are many theories about its origin and meaning. According to one of these theories, vampire comes from the Magyar words vam, meaning blood, and pir. What does pir mean in Magyar?
+^ Monster
+A Blood
+B Animal
+C Human
+D Monster
+
+#Q One of the most famous vampires is Dracula (some believe that he was the first vampire). In Romanian Dracul means either Dragon or Devil and therefore Dracula is translated as Son of the Dragon or Son of the Devil. Due to his favorite sadistic punishment, Vlad Dracula was nicknamed Tepes.  He preferred to kill those who opposed him in this manner.
+^ Impalement
+A Hanging
+B Disembowelment
+C Impalement
+D Beheading
+
+#Q Vlad Tepes was one of the major allies of the Ottoman Empire, therefore Romania was never put under Ottoman rule.
+^ False
+A True
+B False
+
+#Q Of course everybody knows about the Blood Vampires. They feed on the blood of their victims and prefer sucking it from the neck, the wrist or the groin. But there is another, less known, kind of vampires.  What do they feed on?
+^ Aura
+A Vegetables
+B Flesh
+C Brains
+D Aura
+
+#Q Vampires are common to the folklore of many countries. The Civatateo is an Aztec vampire, created when a noblewoman died at childbirth. In aboriginal mythology, vampires had suckers on their fingers. What are the Yakshis (sort of Indian vampires) like?
+^ Beautiful women
+A Beautiful women
+B Ugly Men
+C Wounded Wolves
+D Innocent Children
+
+#Q It is believed that you can stop a vampire, by throwing rice or marbles on the floor.
+^ True
+A False
+B True
+
+#Q One of the most popular ways of killing a vampire (apart from the trivial sharp wooden stick in the heart), is to expose the creature to sunlight. However, there is a disease, that has similar symptoms. People who suffer from it are very sensitive to sunlight and avoid going out during the day. What is this horrible disease?
+^ Porphyria
+A Anemia
+B Scrapie
+C Influenza
+D Porphyria
+
+#Q This woman was believed to be a vampire. She was obsessed with her beauty and youth, and slaughtered as many as six hundred innocent women in an attempt to maintain her vitality. Although her guilt has never been proven, she is still one of the most famous serial killers in Hungarian and Slovak history.
+^ Elizabeth Bathory
+A Janos Benicka
+B Ilona Ujvary
+C Katarina Szentes
+D Elizabeth Bathory
+
+#Q Silver doesnt harm vampires.
+^ False
+A False
+B True
+
+#Q Peter Kurten was called a vampire, because he consumed the blood of some of his victims. He was accused of nine murders and seven attempted murders and was sentenced to death. He was guillotined on 2 June 1932. What was his nationality?
+^ German
+A Briton
+B Romanian
+C Russian
+D German
+
+#Q The great circle on the celestial sphere, midway between the celestial poles is called this.
+^ Equinoctial
+A Equilibration
+B Equinity
+C Equilibria
+D Equinoctial
+
+#Q If I am famous for my steadiness of mind under stress, then I am famous for this.
+^ Equanimity
+A Equid
+B Equalization
+C Equanimity
+D Equalitarianism
+
+#Q If a statement is ambiguous, it is said to be this.
+^ Equivocal
+A Equestrian
+B Equipoised
+C Equivocal
+D Equilateral
+
+#Q One of the four pairs of words below contains two synonyms.
+^ Equal - Equivalent
+A Equal - Equivalent
+B Equipollent - Equipped
+C Equipotential - Equilateral
+D Equipage - Equipoise
+
+#Q Do the words equivoke and equivoque mean the same?
+^ Yes
+A No
+B Yes
+
+#Q Gilgamesh is a character from the Sumerian mythology.
+^ True
+A True
+B False
+
+#Q Athena was the Greek equivalent of the goddess Minerva.
+^ True
+A True
+B False
+
+#Q Nike was a goddess, who personified triumph and victory (Greek mythology). Ironically, she was paralyzed and could not move her legs.
+^ False
+A False
+B True
+
+#Q Helicon is the name of an ancient lake, where the Muses were born.
+^ False
+A True
+B False
+
+#Q Calliope was the muse for music.
+^ False
+A True
+B False
+
+#Q Marduk was a Mesopotamian deity.
+^ True
+A False
+B True
+
+#Q Svarog is the highest god of the pantheon (Slavic mythology) and the god of thunder and lightning.
+^ False
+A True
+B False
+
+#Q The creature from Slavic mythology known as Zmey actually resembles a dragon.
+^ True
+A False
+B True
+
+#Q Loki is the god of mischief of Norse mythology.
+^ True
+A True
+B False
+
+#Q One of these words has mid-17th century Latin origins and is a synonym of the word, wavy.
+^ Undulate
+A Unhair
+B Unialgal
+C Unduly
+D Undulate
+
+#Q Which of these definitions does not describe a present day meaning of the word sesquipedalian?
+^ Having a lot of feet
+A Characterized by the use of long words
+B Having a lot of feet
+C Having many syllables
+D Large in length
+
+#Q The archaic word wittol, already out of use and found mostly in old books, stands for a person who is very wise.
+^ False
+A True
+B False
+
+#Q Which of these words is used to describe something with a yellow color or tending toward a yellow color?
+^ Xanthic
+A Xeric
+B Xenolith
+C Xanadu
+D Xanthic
+
+#Q The word ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œpromiscuousÃƒÂ¢Ã¢â€šÂ¬? is used in physical description to refer to someone with exclusive charm and sex appeal.
+^ False
+A False
+B True
+
+#Q We all know purple and its numerous variations, but can you name the odd one in this synonymic order dedicated to the shade of purple?
+^ Indigo
+A Lavender
+B Indigo
+C Amethyst
+D Wine
+
+#Q Having in mind the words meaning, does it  fit in the following analogy: Juvenile is to young as *geriatric* is to aged.
+^ Yes
+A No
+B Yes
+
+#Q The amarok, which is typical for the mythology of the Eskimos, is what kind of an animal?
+^ wolf
+A whale
+B walrus
+C bear
+D wolf
+
+#Q The banshee, a female spirit in Irish mythology, is known for doing what?
+^ Wailing
+A Laughing
+B Stealing
+C Playing tricks
+D Wailing
+
+#Q The hippocampus, a mythical monster with the head of a horse and body of a fish, pulled the chariot of which god?
+^ Poseidon
+A Zeus
+B Poseidon
+C Mars
+D Neptune
+
+#Q Anubis was the jackal-headed judge of the dead from what mythology?
+^ Egyptian
+A Egyptian
+B Aztec
+C Mesopotamian
+D Norse
+
+#Q The Kraken from seafaring lore was a monster often described as what?
+^ Giant squid
+A Humpback whale
+B Giant jellyfish
+C Great White shark
+D Giant squid
+
+#Q A brownie is a legendary elf popular in the folklore of which two countries?
+^ England  Scotland
+A Germany  Austria
+B England  Scotland
+C Ireland  Wales
+D Denmark  Holland
+
+#Q A cuero is a mythical giant octopus of which continent?
+^ South America
+A South America
+B Africa
+C North America
+D Europe
+
+#Q A dwarf is a little humanoid creature with a large head and a long beard, typical for what mythology?
+^ Scandinavian
+A Cornish
+B Scottish
+C Celtic
+D Scandinavian
+
+#Q A ghul is an evil spirit encountered by travelers in what area of the world?
+^ Arabian Dessert
+A Arabian Dessert
+B Scottish Highlands
+C Northern Africa
+D Australian Outback
+
+#Q The wodewose is a club-wielding ogre with green hair who suffers from what malady?
+^ He was mute
+A He was mute
+B He was blind
+C He was lame
+D He was deaf
+
+#Q The gods Atum and Ra merged.  The dominant of the two was Ra.
+^ True
+A True
+B False
+
+#Q Priests often wore a mask of this god during mummification ceremonies.
+^ Anubis
+A Bastet
+B Hapy
+C Aten
+D Anubis
+
+#Q God Bes was depicted as this.
+^ Dwarf with lion and human features
+A Dwarf with lion and human features
+B Giant with dog and human features
+C Dwarf with dog and human features
+D Giant with lion and human features
+
+#Q Osiris had an equivalent in Greek mythology.  Who was this counterpart of his?
+^ Hades
+A Herakles
+B Zeus
+C Hades
+D Hermes
+
+#Q Tefnut had the body of a lioness.
+^ False
+A False
+B True
+
+#Q The name of god Amen means this.
+^ The Hidden One
+A The Wise One
+B The Stupid One
+C The Mighty One
+D The Hidden One
+
+#Q At first, there was only this god. He was the dark waters of chaos.
+^ Nun
+A Nun
+B Atum
+C Iris
+D Bes
+
+#Q The word tycoon means a wealthy businessperson.  What language does it come from?
+^ Chinese
+A Greek
+B Latin
+C Russian
+D Chinese
+
+#Q Apart from being the name of a well-known rock group, placebo also means an innocuous medicine, prescribed only for psychological effect over the patient or for experimentations. But what is its true meaning in Latin?
+^ I shall please
+A Pleasure
+B Hypnotism
+C I shall please
+D Harmless
+
+#Q The original meaning of the word grotesque was very different from the one we know. What was it?
+^ Fantastic
+A Foolish
+B Big
+C Illiterate
+D Fantastic
+
+#Q The Amazon estuary is truly magnificent. The word estuary comes from this language.
+^ Latin
+A Latin
+B Chinese
+C Spanish
+D Portuguese
+
+#Q The word devil is derived from the Greek word diabolos. What does diabolos mean?
+^ Accuser
+A Silly
+B Accuser
+C Offender
+D Insane
+
+#Q After a divorce, the court might order one of the sides to pay an alimony. What are the origins of the word alimony?
+^ Latin
+A Turkish
+B Greek
+C Latin
+D Japanese
+
+#Q The Greek word kome means hair of the head. Which one of these words derives from it?
+^ Comet
+A Court
+B Coma
+C Comet
+D Comb
+
+#Q The name of the flower dandelion comes from this language.
+^ French
+A Portuguese
+B Anglo-Saxon
+C French
+D Swedish
+
+#Q A good sense of humor is highly valued everywhere. The original meaning of the word humor in Latin (more accurately umor) is this.
+^ Body fluid
+A State of mind
+B Body fluid
+C Good word usage
+D Good joke
+
+#Q The word nice is very popular nowadays, but its original meaning in Latin is not as nice.
+^ Ignorant
+A Disobedient
+B Clumsy
+C Ignorant
+D Hideous
+
+#Q The longest word in the English language is pneumonoultramicroscopicsilicovolcanoconiosis. It consists of 45 letters and stands for this.
+^ Disease
+A Part of an organ
+B Surgical operation
+C Disease
+D Medical device
+
+#Q One of the following words is a synonym of the word cognoscente.
+^ Connoisseur
+A Supervisor
+B Distributor
+C Philosopher
+D Connoisseur
+
+#Q The word razzmatazz means this.
+^ Ambiguous language
+A Ambiguous language
+B Gizmo
+C Knick-knack
+D Amulet
+
+#Q A nap in the early afternoon is called by this word taken from Spanish.
+^ Siesta
+A Enchilada
+B Taco
+C Arroyo
+D Siesta
+
+#Q Crwth is a fascinating word. It has no vowels. This is what it means.
+^ Musical instrument
+A Tool
+B Musical instrument
+C Rulers title
+D Pot
+
+#Q The she-goat Amalthea, which nursed baby Zeus, is represented by what constellation?
+^ Capra
+A Hydra
+B Capricorn
+C Capra
+D Virgo
+
+#Q This constellation was named after a Greek goddess. She was beautiful, but conceited. In order to punish her for that, Poseidon sent her figure to the skies upside down.
+^ Cassiopeia
+A Perseus
+B Aquila
+C Andromeda
+D Cassiopeia
+
+#Q There are many myths about this constellation. The earliest one, however, comes from a Sumerian legend about a female dragon, who ruled over the primordial ocean before the creation. But new gods rebelled against her and sent her to the skies.
+^ Draco
+A Crux
+B Draco
+C Aquila
+D Cygnus
+
+#Q Although it is a galaxy, the story about its creation is not less intriguing. Many legends associate its formation with milk spilled in one way or another. However, a Mesopotamian legend explains another thing. After the deluge the ark of Utnapishtim, the Sumerian Noah, was stuck on Mount Ararat. He then made a sacrifice to the gods and this galaxy was created out of the smoke of the fire.
+^ The Milky Way
+A Aries
+B Draco
+C Ara
+D The Milky Way
+
+#Q This constellation was named after a creature from the Greek mythology which is a combination between a human and a horse. Such creatures were of violent nature but there was one exception - Chiron, who was the tutor of Hercules.
+^ Centaur
+A Eridanus
+B Auriga
+C Delphinus
+D Centaur
+
+#Q This is a star group in Taurus. It was called after the seven daughters of the Titan Atlas and the Nymph Plieone - Alcyone, Maia, Electra, Merope, Taygeta, Celaeno, and Sterope.
+^ Pleiades
+A Gemini
+B Aries
+C Pleiades
+D Crux
+
+#Q This constellation was named after a Greek hero who bragged to be the greatest hunter. Goddess Hera heard that and sent a scorpion after him to test his skills. The hero was stung to death by the scorpion. Zeus felt sorry and sent him to the sky.
+^ Orion
+A Sagitta
+B Cancer
+C Sirius
+D Orion
+
+#Q This constellation is often associated with Ganymede, who was a beautiful Phrygian youngster. Jupiter once saw him, fell in love with the lad and came to the earth as a bird, which took him to the skies. Since then he has served as the cup bearer of the gods.
+^ Aquarius
+A Delphinus
+B Aquarius
+C Ara
+D Pisces
+
+#Q This was the instrument that Orpheus played so well that his music enchanted even the wild beasts, the rocks, and the trees. After he lost his beloved one - Eurydice, Zeus placed Orpheuss musical instrument on the sky.
+^ Lyre
+A Triangulum
+B Libra
+C Lyre
+D Sagitta
+
+#Q This constellation represents the twin brothers Castor and Pollux. They were born by one mother, Leda, but had different fathers. Leda got pregnant simultaneously by Jupiter and the king Tyndarus of Sparta. When Castor died, Pollux felt so sorry that he begged Jupiter to unite them again, so Jupiter reunited the brothers in the sky.
+^ Gemini
+A Gemini
+B Puppis
+C Pleiades
+D Pisces
+
+#Q What does the verb to dub mean?
+^ To give a name
+A To make a major mistake
+B To study hard as in an all- nighter
+C To give a name
+D To hit very hard on the head or neck
+
+#Q If you command a horse to gee, what do you expect him to do?
+^ Turn right
+A Stop completely
+B Go back a few paces
+C Turn left
+D Turn right
+
+#Q If you put a hex on someone, what have you done?
+^ Put him or her under a spell
+A Curse that person to hell
+B Drown him or her as a witch.
+C Wish him or her good luck
+D Put him or her under a spell
+
+#Q Which of the following terms means to search for fun?
+^ Gad
+A Dap
+B Vex
+C Gad
+D Gob
+
+#Q What does to vex mean?
+^ To annoy
+A To annoy
+B To hurry
+C To spin very fast
+D To curse
+
+#Q What does to sup refer to?
+^ Eat an evening meal
+A Eat soup very nosily
+B Dine in elegance
+C Eat an evening meal
+D Eat like an animal
+
+#Q What does the verb hew mean?
+^ To cut
+A To cut
+B To fasten with glue or paste
+C To mend
+D To hollow out a log
+
+#Q Which of the following terms means to recede?
+^ Ebb
+A Lob
+B Orb
+C Gee
+D Ebb
+
+#Q What does to hie mean?
+^ To hurry
+A To hurry
+B To fear
+C To stop
+D To type by touch
+
+#Q What is the meaning of the verb to jam?
+^ To interfer with a radio signal
+A To interfer with a radio signal
+B To spread with a jelly-like substance
+C To soak flax prior to spinning
+D To unclog a bunch of logs in a stream
+
+#Q Which of the following fictional or legendary hybrids is not half-human?
+^ Baku
+A Merman
+B Asterius
+C Half-orc
+D Baku
+
+#Q Which of the following is a legendary creature with a lion body and eagle head and wings?
+^ Griffin
+A Basilisk
+B Mandrake
+C Arachne
+D Griffin
+
+#Q What is the name of the monstrous creature from Greek Mythology, that is the offspring of Typhon and Echidna?
+^ Chimera
+A Chimera
+B Pegasus
+C Mermaid
+D Chiron
+
+#Q What kind of creature was the African mythological hybrid Jengu?
+^ A water spirit
+A A water spirit
+B An elf
+C A lizard
+D A monstrous insect
+
+#Q This hybrid is an Egyptian sacred baboon with the head of a dog.
+^ Cynocephalus
+A Sphinx
+B Felinity
+C Reprobus
+D Cynocephalus
+
+#Q What is the name of the legendary half-man and half-goat (or half-horse) creature often associated with male sexuality in Greek mythology?
+^ Satyr
+A Praxiteles
+B Anubis
+C Pan
+D Satyr
+
+#Q The sphinxes, the popular legendary creatures of the Ancient Egyptians, could be depicted with three different heads. Which head that was not typical for the sphinx?
+^ Snake head
+A Snake head
+B Ram head
+C Bird head
+D Human head
+
+#Q The legendary creature Peryton, that was said to come from the lost continent Atlantis, is a hybrid of what two animals?
+^ Stag and bird
+A Stag and bird
+B Stag and snake
+C Horse and lizard
+D Bird and insect
+
+#Q Which of the following is an evil mythological hybrid of a woman and a bird?
+^ Harpy
+A Ogress
+B Harpy
+C Trowe
+D Titan
+
+#Q The world sirena refers to this mythical or folklore hybrid of a woman and an animal?
+^ Mermaid
+A Mermaid
+B Grendel
+C Vampire
+D Manticore
+
+#Q In which musical does Curly sing Surrey With the Fringe on Top to entice his girlfriend to accompany him to a party?
+^ Oklahoma
+A Oklahoma
+B Will Rogers Follies
+C The Pajama Game
+D Sound of Music
+
+#Q The hit song If I Were a Rich Man, which reflected the dreams of a poor milkman, came from which musical of the 60s?
+^ Fiddler on the Roof
+A Fiddler on the Roof
+B 42nd Street
+C Chicago
+D Cats
+
+#Q All That Jazz is the opening number of which 1975 Bob Fosse musical?
+^ Chicago
+A 42nd Street
+B Chicago
+C Fiddler on the Roof
+D Cats
+
+#Q The moving song I Am What I Am is sung at the end of Act I of which Jerry Herman hit show?
+^ La Cage aux Folles
+A Hello Dolly
+B La Cage aux Folles
+C Damn Yankees
+D My Fair Lady
+
+#Q Which musical of the 50s featured the song Some Enchanted Evening?
+^ South Pacific
+A Mame
+B Hello Dolly
+C South Pacific
+D George M.
+
+#Q Whatever Lola Wants is performed by the sultry Lola trying to tempt a faithful husband in which  Bob Fosse show?
+^ Damn Yankees
+A Fosse
+B The Pajama Game
+C Chicago
+D Damn Yankees
+
+#Q In which show does Eliza sing The Rain in Spain?
+^ My Fair Lady
+A My One and Only
+B Kismet
+C Kiss me Kate
+D My Fair Lady
+
+#Q Fill in the blank with the correct word:
+It would be as well to let it go, ___ too far out.
+
+Quote from A New Hope
+^ its
+A ...
+B its
+C ...
+D its
+
+#Q The word catholic means the same whether capitalized or not.
+^ False
+A False
+B True
+
+#Q Stationery means fixed, not moveable.
+^ False
+A True
+B False
+
+#Q Stationary is fancy writing paper.
+^ False
+A False
+B True
+
+#Q What is the meaning of the adverb altogether?
+^ Entirely
+A Entirely
+B Near by
+C Unclothed
+D In the same place
+
+#Q What does the collocation all together mean?
+^ In the same place
+A In the same place
+B Completely
+C The same as altogether
+D All told
+
+#Q What does the word principal mean?
+^ Main
+A Origin
+B Main
+C Characteristic
+D Law
+
+#Q Is counsel the correct word for a group called together for a purpose?
+^ No
+A No
+B Yes
+
+#Q Counsel is giving of advice.
+^ True
+A False
+B True
+
+#Q These creatures ruled the world until they were overthrown by the Twelve Olympians, led by Zeus.
+^ Titans
+A Cyclopes
+B Titans
+C Animals
+D Humans
+
+#Q Cronus learned he was destined to be overcome by his own son as he had overthrown his own father, thats why he wanted to kill Zeus.
+^ True
+A True
+B False
+
+#Q The Cyclopes gave Zeus fire.
+^ False
+A True
+B False
+
+#Q Hermes is the highest ranking and most powerful god in Greek mythology.
+^ False
+A True
+B False
+
+#Q What was Rembrandts last name?
+^ Van Rijn
+A Rembrandt is his last name
+B Van Dyke
+C Bosch
+D Van Rijn
+
+#Q What was the first name of Van Goghs brother?
+^ Theo
+A Theo
+B Pierre
+C Edward
+D Hans
+
+#Q For which opera did Gershwin become posthumously famous?
+^ Porgy and Bess
+A Rhapsody in Blue
+B An American in Paris
+C The Days Gone By
+D Porgy and Bess
+
+#Q The music for Swan Lake, one of the most critically-acclaimed ballets, was written by this composer.
+^ Pyotr Ilyich Tchaikovsky
+A Aram Khachaturian
+B Pyotr Ilyich Tchaikovsky
+C Stern
+D Nikolai Rimsky-Korsakov
+
+#Q Violin virtuoso Itzach Perlman is a cousin of this entertainer.
+^ Howie Mandel
+A Neil Sedaka
+B Howie Mandel
+C Bob Dylan
+D Isaac Stern
+
+#Q How many reeds does an oboe have?
+^ 2
+A 3
+B 2
+C 1
+D 0
+
+#Q In what country was composer and pianist, Frederic Chopin born?
+^ Poland
+A France
+B Poland
+C Switzerland
+D Belgium
+
+#Q Which of the following is a type of plaster used to paint on?
+^ Gesso
+A Obsidium
+B Obstantium
+C Gesso
+D Gelato
+
+#Q Which painter and founder of cubism would not divorce his first wife, Olga Khoklova, so she would not get half his wealth?
+^ Picasso
+A Picasso
+B Klee
+C Cezanne
+D Remington
+
+#Q This photographer, who taught at MIT for 10 years, developed the Zone System.
+^ Minor White
+A Minor White
+B Alfred Stieglitz
+C Paul Curtis
+D Barbara Morgan
+
+#Q Which of the following group of animals is not referred to as a herd?
+^ Rhinoceroses
+A Rhinoceroses
+B Boars
+C Chinchillas
+D Walruses
+
+#Q Which prefix means under?
+^ Sub-
+A Supra-
+B Sub-
+C Un-
+D Super-
+
+#Q Which suffix means fear?
+^ -phobia
+A -itis
+B -phobia
+C -philia
+D -mony
+
+#Q Which prefix means within?
+^ intra-
+A intra-
+B inter-
+C pseudo-
+D hemi-
+
+#Q When prefix means high?
+^ Alti-
+A Apo-
+B Peri-
+C Alti-
+D Pleo-
+
+#Q All but one of the following suffixes changes the word from an adjective or a verb into a noun.  Which is the odd one?
+^ -ous
+A -ous
+B -ion
+C -ity
+D -ness
+
+#Q Which suffix means foot?
+^ -pus
+A -morph
+B -flex
+C -pus
+D -fer
+
+#Q Which suffix means one who?
+^ -er
+A -able
+B -ship
+C -ous
+D -er
+
+#Q Which prefix means across a distance?
+^ TELE-
+A TELE-
+B PALEO-
+C PHILO-
+D PROTO-
+
+#Q Which of the following prefixes does not mean not?
+^ Pan
+A A-
+B In-
+C Non-
+D Pan
+
+#Q Which prefix means together?
+^ CO-
+A CO-
+B PROTO-
+C SOLI-
+D HETERO-
+
+#Q Freya was the goddess of this.
+^ Love and beauty
+A Poetry
+B The flowers
+C Love and beauty
+D Old age and madness
+
+#Q There were two major clans of Norse gods - Vanir and Ãƒâ€ sir.
+^ True
+A False
+B True
+
+#Q Odins favorite pets were these creatures.
+^ Ravens
+A Ravens
+B Bats
+C Hawks
+D Snakes
+
+#Q What did god Tyr sacrifice in order to bind the evil Fenris wolf?
+^ His hand
+A His hand
+B His eye
+C His head
+D His leg
+
+#Q Which of the following gods was famous for his talent to quickly transform his appearance?
+^ Loki
+A Fenrir
+B Loki
+C Asgard
+D Hel
+
+#Q God Ori was a giant.
+^ False
+A False
+B True
+
+#Q Goddess Skadi was not permitted to look at the gods faces, while choosing her husband among them.
+^ True
+A True
+B False
+
+#Q Norse mythology associates the aurora with this beautiful goddess.
+^ Freya
+A Frigg
+B Freya
+C Elli
+D Eir
+
+#Q He was the first man, according to Norse mythology.
+^ Ask
+A Annar
+B Ask
+C Arvak
+D Aud
+
+#Q In what movie does a character say,  Yo, Adrian.?
+^ Rocky
+A The Godfather
+B Rocky
+C New York, New York
+D On the Waterfront
+
+#Q Yo-Yo Ma is considered by most to be the best musician in the world to play this instrument. Yo-Yo Mas nickname for his instrument is Petunia. What type of instrument is Petunia?
+^ Cello
+A Classical Guitar
+B Flute
+C Violin
+D Cello
+
+#Q If a person is downright, then he is this.
+^ Candid
+A Candid
+B Cordial
+C Gentle
+D Compassionate
+
+#Q A playwright is someone who writes for the theatre. One of the following famous Greeks was not a playwright.
+^ Tyrtaeus
+A Aeschylus
+B Sophocles
+C Aristophanes
+D Tyrtaeus
+
+#Q One of these is not a spright.
+^ A dwarf.
+A A dwarf.
+B A specter or ghost.
+C An elflike person.
+D A soul.
+
+#Q If he denied the charges outright, then his denial cannot be described as this.
+^ Kind
+A Open
+B Complete
+C Immediate
+D Kind
+
+#Q In the UK one of these parties is not considered right-winged.
+^ Scottish National Party
+A United Kingdom Independence Party
+B Scottish National Party
+C Conservative Party
+D Democratic Unionist Party
+
+#Q Dexter from Dexters Lab was right-handed.
+^ False
+A True
+B False
+
+#Q Which of these languages is not an official national language in a South American country?
+^ German
+A English
+B Dutch
+C German
+D Guarani
+
+#Q What language has the most native speakers in the world?
+^ Mandarin
+A English
+B Spanish
+C Arabic
+D Mandarin
+
+#Q What movie features an actor speaking one of the Khoisan languages of southwestern Africa, which have a range of click sounds (sounds which are not found outside this region)?
+^ The Gods Must Be Crazy
+A A Dry White Season
+B The Gods Must Be Crazy
+C Cry Freedom
+D Hotel Rwanda
+
+#Q The largest language family (a group of historically related languages) is the Indo-European family, which includes well-known European languages such as English, French and Russian. Which of the following languages is NOT a member of this family?
+^ Hebrew
+A Hindi
+B Hebrew
+C Armenian
+D Kurdish
+
+#Q What European language is not related to any other language in the world?
+^ Basque
+A English
+B Greek
+C Hungarian
+D Basque
+
+#Q The Romance languages are all descended from Latin, and form a branch of the Indo-European family. It is common knowledge that languages such as French, Spanish, Italian and Portuguese are related and are Romance languages. There is another major European language which is also a member of this branch. What is it?
+^ Romanian
+A Romanian
+B Irish
+C Hungarian
+D Bulgarian
+
+#Q The Chinese language is related to Japanese.
+^ False
+A False
+B True
+
+#Q What language has contributed the following words to the English language: ketchup, gong, orangutan, amok, bamboo, cockatoo, mango, paddy, gingham, compound (as in military compound) and cooties?
+^ Malay
+A Portuguese
+B Chinese
+C Malay
+D Hindi
+
+#Q What language has contributed the following words to English: bungalow, jungle, thug, khaki, cot, loot, sentry, shampoo, and bangle?
+^ Hindi
+A Portuguese
+B Chinese
+C Malay
+D Hindi
+
+#Q The nation of Singapore has four official languages. However, all education is conducted in this language, by law.
+^ English
+A Tamil
+B Malay
+C Chinese
+D English
+
+#Q Zeus, Hades, and Poseidon are brothers.
+^ True
+A False
+B True
+
+#Q Which goddess was Apollos sister?
+^ Artemis
+A Athena
+B Hestia
+C Hera
+D Artemis
+
+#Q Zeus was married to this goddess.
+^ Hera
+A Athena
+B Hestia
+C Hera
+D Demeter
+
+#Q Hades is considered one of the Twelve Olympians.
+^ No
+A Yes
+B No
+
+#Q What is the name of the daughter of the goddess, Demeter?
+^ Persephone
+A Aphrodite
+B Hestia
+C Luna
+D Persephone
+
+#Q What is the name of the 3 headed dog that guards the Underworld?
+^ Cerberus
+A Romulus
+B Cerberus
+C Grendel
+D Remus
+
+#Q The city of Athens was almost named after Poseidon, rather than Athena.
+^ True
+A True
+B False
+
+#Q Hermes is the Greek god of shepards, land travel, weights and measures, oratory, literature, merchants and athletics. His Roman equivalent however, is usually considered to be just the god of trade, profit and travel. Who is the Roman god in question?
+^ Mercury
+A Mercury
+B Juno
+C Saturn
+D Mars
+
+#Q Dionysus is the Greek god of wine. Who is the Roman god of wine?
+^ Bacchus
+A Mars
+B Cacius
+C Aurora
+D Bacchus
+
+#Q Cupid is the Roman counterpart of Aphrodite, the Greek goddess of love.
+^ False
+A True
+B False
+
+#Q Hephaestus is the Greek God of fire and the patron of blacksmiths. Who is the Roman god of fire and craftsmanship?
+^ Vulcan
+A Vulcan
+B Vitrus
+C Spock
+D Theia
+
+#Q The Greek goddess of flowers is Chloris. Who is the Roman goddess of flowers, the personification of spring?
+^ Flora
+A Diana
+B Flora
+C Fauna
+D Gaia
+
+#Q Poseidon, the Greek god of the sea, was very popular and powerful among Greek sailors. His Roman equivalent was inferior in power and popularity. Who was the Roman god of the sea?
+^ Neptune
+A Orion
+B Neptune
+C Mars
+D Saturn
+
+#Q Hades, the Greek god of the Underworld, is known as Pluto in Roman mythology.
+^ True
+A False
+B True
+
+#Q Eros is the Greek personification of the dawn and his siblings are the sun (Helios) and the moon (Selene). Who is the Roman personification of the dawn, whose siblings are Sol (sun) and Luna (moon).
+^ Aurora
+A Aurora
+B Gaia
+C Celeste
+D Hestasia
+
+#Q Which one of these words means sooty or murky; having a dark or dusky color?
+^ Fuliginous
+A Fuliginous
+B Inkhorn
+C Somnolent
+D Alfresco
+
+#Q Hemidemisemiquaver is a musical time meaning 1/64 of a note.
+^ True
+A False
+B True
+
+#Q Which word means a group of unofficial often secret and scheming advisers?
+^ Camarilla
+A Pratfall
+B Estival
+C Xeriscape
+D Camarilla
+
+#Q The word thimblerig means to play by the rules, to be fair.
+^ False
+A True
+B False
+
+#Q What word means to be not reputable or decent?
+^ Louche
+A Louche
+B Jocose
+C Prehensile
+D Demulcent
+
+#Q Prothalamion is a funeral song.
+^ False
+A False
+B True
+
+#Q What word means melancholy, gloomy, or having a peevish temperament?
+^ Atrabilious
+A Wimple
+B Golconda
+C Askew
+D Atrabilious
+
+#Q Aparatchik is a blindly devoted official, follower or member of an organization.
+^ True
+A False
+B True
+
+#Q What word means a defamatory falsehood published for political effect?
+^ Roorback
+A Roorback
+B Anabasis
+C Roister
+D Cineast
+
+#Q The word henotheism means denial of the existence of gods other than ones own.
+^ False
+A False
+B True
+
+#Q It is estimated that this country has more English speakers than the United States.
+^ China
+A India
+B Japan
+C China
+D UK
+
+#Q The Mazateco language is the native language of the Mazatec peoples of Oaxaca, Mexico. Besides by words, messages in this language can be conveyed by what other means?
+^ By whistling
+A By clicking ones tongue
+B By tramping
+C By whistling
+D B

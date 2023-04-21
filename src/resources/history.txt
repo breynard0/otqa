@@ -1,0 +1,173 @@
+
+#Q In which US state is the active Mount Rainier volcano located?
+^ Washington
+A Michigan
+B Ohio
+C Washington
+D New York
+
+#Q In 1990, this 5000 year old body was found in the Alps. Scientists discovered some tattoos on his leg which indicated that acupuncture was used as far back as the Copper-stone Age.
+^ Oetzi
+A Big Foot
+B Sasquatch
+C Nessie
+D Oetzi
+
+#Q After unsuccessful  talks about oil production and debt repayment, Iraq occupied Kuwait.  In January 1991 the US launched an air attack against military targets in Iraq and Kuwait in this operation.
+^ Desert Storm
+A Matador
+B BOLERO
+C Determined Force
+D Desert Storm
+
+#Q It is the process of producing identical copies of a DNA segment asexually.  In 1996 the first successful one of an animal was made. The animals name was Dolly.  Dolly later died, but Richard Seed announced that he intended try it on humans.
+^ Cloning
+A Organ Transplant
+B Cloning
+C Bloodless Surgery
+D Laser Surgery
+
+#Q This kind of music became largely popular in Europe and America in the 1990s. It is a melodic, free form combination between techno and house, having hypnotic qualities. The first distinctive track of this kind was Age Of Love, released in 1990.
+^ Trance
+A Electro
+B Trance
+C Techno
+D Dance
+
+#Q This womans death was arguably the most shocking one of the decade. She died in 1997 in a car crash while evading paparazzi. The woman was taken to a hospital, but the two-hour efforts of surgeons to save her life were unsuccessful.
+^ Princess Diana
+A Greta Garbo
+B Nancy Marchand
+C Madam C. J. Walker
+D Princess Diana
+
+#Q This union, made up of European countries, was established by the Maastricht Treaty in 1992. Starting as a trade body it is now an economic and political partnership between its members.
+^ The European Union
+A American Labor Union
+B Oxford Union
+C The European Union
+D European Trade Union
+
+#Q Although the first one was sent in 1971, it became widely popular in 1998. Its popularity caused explosive growth of the internet.
+^ The E-mail
+A The Chat programs
+B The URL
+C The E-mail
+D The Website
+
+#Q Impeachment stands for quickly removing dangerously criminal officials from high office. The Impeachment Trial in the Senate for this US President commenced on January 7, 1999.
+^ Bill Clinton
+A George Bush
+B Ronald Reagan
+C Bill Clinton
+D Richard Nixon
+
+#Q On August 17, 1999 this disaster took the lives of 15 000 and injured 23 000 people in western Turkey.
+^ Earthquake
+A Earthquake
+B Tsunami
+C Avalanche
+D Volcano eruption
+
+#Q These became more advanced and more popular in the 1990, with some of the most influential ones being  the Super Nintendo Entertainment System, the Sony Playstation, and the Sega Dreamcast.
+^ Video Game consoles
+A Dating sites
+B Virtual reality systems
+C Video Game consoles
+D Computer games
+
+#Q The Punic Wars were a series of three wars fought between these two powers.
+^ Rome and Carthage
+A Rome and Athens
+B Athens and Sparta
+C Carthage and Athens
+D Rome and Carthage
+
+#Q The 1938 incorporation of Austria in Greater Germany under the Nazi Regime is known as this.
+^ Anschluss
+A Ansatz
+B Abwer
+C Anschluss
+D Ahnentafel
+
+#Q Henry Kissinger held this US post from 1974 to 1977.
+^ Secretary of State
+A President of the Senate
+B Speaker of the House of Representatives
+C National Security Advisor
+D Secretary of State
+
+#Q One of these cities has been Japans capital in the past.
+^ Kyoto
+A Kyoto
+B Yokohama
+C Hiroshima
+D Osaka
+
+#Q Anne of Austria was the mother of Louis XIV of France (the Sun King).
+^ True
+A True
+B False
+
+#Q Valeria Messalina was the third wife of this Roman emperor.
+^ Claudius
+A Caligula
+B Tiberius
+C Nero
+D Claudius
+
+#Q Philip II of France, Richard I of England and Frederick I led this campaign.
+^ Third Crusade
+A Childrens Crusade
+B Albigensian Crusade
+C Fourth Crusade
+D Third Crusade
+
+#Q Yu the Great was the legendary first Chinese monarch of this dynasty.
+^ Xia Dynasty
+A Xia Dynasty
+B Qing (Manchu) Dynasty
+C Ming Dynasty
+D Yuan Dynasty
+
+#Q This German general was nicknamed The Desert Fox due to the skillful military campaigns he waged in North Africa, during World War II.
+^ Erwin Rommel
+A Erwin Rommel
+B Hermann Goring
+C George Patton
+D Bernard Montgomery
+
+#Q The term Blitzkrieg, referring to swift, sudden military offensive, is translated as Thunder War.
+^ False
+A False
+B True
+
+#Q How many landing beaches were there in the 1944 Normandy Invasion, known as Operation Overlord?
+^ Five
+A Four
+B Six
+C Five
+D Three
+
+#Q What was the name of the first jet-powered fighter used in World War II?
+^ Me-262
+A P-51
+B Hurricane
+C Me-262
+D MIG-3
+
+#Q Which member of the Nazi Party was known as Adolph Hitlers first architect of the Third Reich?
+^ Albert Speer
+A Rudolph Hess
+B Albert Speer
+C Hermann Goring
+D Joseph Mengele
+
+#Q The British evacuation from which French port was codenamed Operation Dynamo, in 1940?
+^ Dunkirk
+A Brest
+B Cherbourg
+C Dunkirk
+D Toulon
+
+#Q Which American politician said the following about liberty: They that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.â€

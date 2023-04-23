@@ -9,7 +9,11 @@
 let mut ctx = otqa::TriviaContext::new(false);
 
 // Pick a question at random of a specified category. There are twenty to choose from.
-let question = ctx.get_question(otqa::Category::Animals);
+let question = ctx.get_question(otqa::Category::Animals, otqa::Seeding::Random);
+
+// If you wanted to pick a specific question (e.g. if you wanted a custom seeding algorithm), the syntax would look like this:
+// let question = ctx.get_question(otqa::Category::Animals, otqa::Seeding::Specific(0));
+// It will pick the question of that category at that index, applying a modulo should it overflow the amount of questions
 
 // Here are all fields of questions
 println!("{}", question.question);

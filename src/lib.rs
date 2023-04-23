@@ -6,6 +6,11 @@ pub struct TriviaContext {
     spent_questions: Vec<Question>,
 }
 
+pub enum Seeding {
+    Random,
+    Specific(usize),
+}
+
 impl TriviaContext {
     pub fn new(repeat_questions: bool) -> Self {
         TriviaContext {
@@ -15,23 +20,43 @@ impl TriviaContext {
         }
     }
 
-    pub fn get_question(&mut self, category: Category) -> Question {
+    /// Get a question of a specific category. If Specific seeding is larger than the amount of questions, a modulo will be applied
+    pub fn get_question(&mut self, category: Category, seeding: Seeding) -> Question {
         use rand::prelude::*;
 
-        let category = self.categories.iter().find(|c| c.category == category).unwrap();
-        
+        let category = self
+            .categories
+            .iter()
+            .find(|c| c.category == category)
+            .unwrap();
+
+        let idx = match seeding {
+            Seeding::Random => thread_rng().gen_range(0..category.questions.len()),
+            Seeding::Specific(s) => s,
+        };
+
         if self.repeat_questions == true {
-            return category.questions.get(thread_rng().gen_range(0..category.questions.len())).unwrap().clone();
-        }
-        else {
-            let mut question = category.questions.get(thread_rng().gen_range(0..category.questions.len())).unwrap().clone();
+            return category
+                .questions
+                .get(idx % category.questions.len())
+                .unwrap()
+                .clone();
+        } else {
+            let mut question = category
+                .questions
+                .get(idx % category.questions.len())
+                .unwrap()
+                .clone();
             while self.spent_questions.contains(&question) {
-                question = category.questions.get(thread_rng().gen_range(0..category.questions.len())).unwrap().clone();
+                question = category
+                    .questions
+                    .get(idx % category.questions.len())
+                    .unwrap()
+                    .clone();
             }
             self.spent_questions.push(question.clone());
             return question;
         }
-        
     }
 }
 

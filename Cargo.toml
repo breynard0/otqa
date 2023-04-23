@@ -1,7 +1,7 @@
 [package]
 name = "otqa"
-description = "A simple wrapper around the OpenTriviaQA database"
-version = "1.0.1"
+description = "A simple, no-API wrapper around the OpenTriviaQA database"
+version = "1.0.2"
 edition = "2021"
 repository = "https://github.com/Siliwolf/otqa"
 license = "MIT"
